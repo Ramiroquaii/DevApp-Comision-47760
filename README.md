@@ -7,6 +7,20 @@ Coder House Curso Aplicaciones React Native
 
 *Tutor Personal:**German Koning**
 
+
+# DESAFÍO Lista Optimizada
+VENCE EL MIÉRCOLES 06/09/2023 A LAS 23:59HS
+
+## Uso de FlatList y Segmentación en componentes
+- Uso de datos simulados en archivos JSON.
+- Separacion de compoentes por funcionalidad.
+- Creacion de los directorios recomendados de proyectos por defecto/estandar (components, data, screens, global).
+- Estilos en archivos del componente.
+- Se implementen dos vistas simples para mostrar los datos simulados.
+- Estilos básicos solo para probar funcionalidad (faltan depurar y embellecer).
+
+
+
 # ENTREGA Primer Entregable - Iniciando Mi Aplicación con EXPO
 TIEMPO LIMITE MIÉRCOLES 23/08/2023 A LAS 23:59HS
 
