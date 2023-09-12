@@ -33,3 +33,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# fuente ttf
+# Ignora todos los archivos TTF
+*.ttf
+# Excepto los que contengan "comofin" en el nombre
+!**/Roboto-Regular.ttf 
+!**/Roboto-Italic.ttf 
+!**/Roboto-Bold.ttf
