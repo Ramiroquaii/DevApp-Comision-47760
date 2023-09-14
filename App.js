@@ -15,14 +15,7 @@ export default function App() {
 
   const [fontsLoaded] = useFonts(fonts);
 
-  // const [fontsLoaded] = useFonts({
-  //   RobotoRegular: require("./assets/fonts/Roboto-Regular.ttf"),
-  //   RobotoItalic: require("./assets/fonts/Roboto-Italic.ttf"),
-  //   RobotoBold: require('./assets/fonts/Roboto-Bold.ttf'), // Reemplaza la ruta con la ubicación correcta de tu fuente
-  // });
-
   if (!fontsLoaded) {
-    // Espera a que se carguen las fuentes
     return null;
   }
 
